@@ -1,0 +1,23 @@
+.show-banner{
+    padding: 30px;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+.show-banner h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40pt;
+    text-align: center;
+    width: 500px;
+    margin: 20px;
+}
+
+.show-banner p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15pt;
+    text-align: center;
+    width: 500px;
+    margin: 15px;
+}

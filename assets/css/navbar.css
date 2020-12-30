@@ -1,0 +1,27 @@
+.navbar{
+    margin: 0;
+}
+
+.navbar ul{
+    padding: 0;
+    list-style: none;
+    text-align: left;
+}
+
+.navbar li{
+    display: inline-block;
+    text-align: left;
+    padding: 10px;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: black;
+    font-size: 12pt;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar a:hover{
+    text-decoration: underline;
+    color: gray;
+}
