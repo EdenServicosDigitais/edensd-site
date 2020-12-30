@@ -4,6 +4,13 @@
     flex: 1;
     align-items: center;
     justify-content: center;
+    border-radius: 10px;
+    height: 450px;
+    background-image: url("/assets/img/office-4.jfif");
+    background-position: center;
+    background-size: cover;
+    opacity: 1.8;
+    color: black;
 }
 
 .show-banner h1{

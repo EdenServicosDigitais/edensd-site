@@ -2,6 +2,9 @@
 @import url("navbar.css");
 @import url("title.css");
 @import url("services.css");
+@import url("contato.css");
+@import url("modal.css");
+@import url("media-queries.css");
 
 *{
     margin: 0;

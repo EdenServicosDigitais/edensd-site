@@ -1,0 +1,52 @@
+.contato-items{
+   padding: 20px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.info{
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.522);
+    border-radius: 5px;
+    padding:30px;
+    width: 60%;
+}
+
+.contato-items h1{
+    font-family: "Monstserrat", sans-serif;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.contato-items p{
+    font-family: "Open Sans", sans-serif;
+    text-align: justify;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+.contato-items ul{
+    border-radius: 5px;
+    background-color: rgba(30, 143, 255, 0.111);
+    list-style: none;
+    padding: 0;
+}
+
+.contato-items a{
+    text-decoration: none;
+    color: dodgerblue;
+}
+.contato-items li{
+    font-family: "Open Sans", sans-serif;
+    font-size: 14pt;
+    display: inline-block;
+    padding: 10px;
+}
+.contato-items a:hover{
+    text-decoration: underline;
+}
+
+#boss{
+    font-weight: bold;
+    font-style: normal;
+}
