@@ -1,0 +1,89 @@
+@media screen and (max-width: 992px) {
+   
+    .service-deck{
+        flex-wrap: wrap;
+    }
+
+  }
+  
+  /* On screens that are 600px or less, set the background color to olive */
+  @media screen and (max-width: 600px) {
+    
+    .navbar {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .contato-items ul{
+        display: none;
+    }
+
+    .contato{
+
+        padding: 0;
+    }
+
+    .contato-items{
+
+        padding: 0;
+        width: 100%;
+    }
+
+    .navbar img{
+        display: none;
+    }
+
+    .info{
+
+        width: 100%;
+    }
+
+    .show-banner{
+        padding: 0;
+        margin: 0;
+    }
+
+    .banner-info{
+        text-align: center;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+
+    .banner-info h1{
+        font-size: 30pt;
+        width: 85%;
+    }
+
+    .banner-info p{
+        width: 90%;
+    }
+    
+
+  }
+
+  @media screen and (max-width: 320px) {
+   
+    .show-banner{
+        padding: 0;
+        margin: 0;
+    }
+
+    .banner-info{
+        text-align: center;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+
+    .banner-info h1{
+        font-size: 30pt;
+        width: 85%;
+    }
+
+    .banner-info p{
+        width: 90%;
+    }
+
+  }
+
