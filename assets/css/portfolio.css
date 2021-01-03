@@ -1,0 +1,59 @@
+.projects{
+   padding: 15px;
+   margin-bottom: 20px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.project-card{
+    width: 620px;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 0 0 5px;
+    border-radius: 10px;
+}
+
+.projects img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.img-camp{
+    text-align: center;
+    margin: 10px;
+}
+
+.project-title{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: left;
+}
+
+.project-title img{
+    width: 30px;
+    padding: 10px;
+}
+
+.project-card p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15pt;
+    padding: 15px;
+    text-align: justify;
+}
+
+.project-card h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-slide{
+    margin-top: 15px;
+    border: none;
+    width: 120px;
+    height: 60px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.mySlides {display:none;}
